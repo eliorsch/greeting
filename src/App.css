@@ -1,0 +1,7 @@
+.App {
+  height: 100vh;
+  max-width: 66.6vh;
+  margin: auto;
+  overflow: hidden;
+  border:1px solid black;
+}
