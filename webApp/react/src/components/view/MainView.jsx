@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import CloseEventTail from "../elements/CloseEventTail";
 import RegularEventTail from "../elements/RegularEventTail";
 import img from "../../SharedScreenshot.jpg";
-import  EventsManager from "../../utils/EventsManager";
+import  EventsManager from "../../../webApp/react/src/utils/EventsManager";
 import { getAuth } from "firebase/auth";
 
 export default function MainView() {
